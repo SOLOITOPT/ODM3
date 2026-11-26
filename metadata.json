@@ -1,0 +1,6 @@
+{
+  "name": "Employee Mission Order Management System",
+  "description": "Manage employee mission orders, vehicles, and printable order documents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
